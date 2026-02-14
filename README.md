@@ -16,7 +16,7 @@ Passionate about intuitive user experiences,  and continuous learning.
 ---
 
 ## Tools & Tech
-- React, JavaScript, TypeScript, Tailwind
+- React.js, Next.js, JavaScript, TypeScript, Tailwind
 - GSAP for animation
 - Node.js, MongoDB 
 
