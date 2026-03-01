@@ -22,10 +22,5 @@ Passionate about intuitive user experiences,  and continuous learning.
 
 ---
 
-## How to reach me
-- GitHub: You’re already here 😊  
-- LinkedIn:  https://www.linkedin.com/in/malak-abu-gdaya-421455250/
-
----
 
 ✨ Always learning, always building.
